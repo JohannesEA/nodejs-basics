@@ -1,11 +1,3 @@
-// const os = require('./os-modules');
-// const moduleBasics = require("./module-basic");
-// const pathBasics = require("./path-basics");
-// console.log(pathBasics.filePath);
-// console.log(os.currensOS);
-// moduleBasics.log("Helo world");
-// console.log(moduleBasics.KEY);
-
 const express = require("express");
 const path = require("path");
 const data = require("./data/data");
